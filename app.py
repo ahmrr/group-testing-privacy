@@ -10,7 +10,7 @@ from dataclasses import dataclass
 src_path = Path(__file__).resolve().parent.parent / "src"
 sys.path.append(str(src_path))
 
-import gtdp
+from src import gtdp
 
 
 @dataclass
