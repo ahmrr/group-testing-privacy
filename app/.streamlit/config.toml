@@ -1,0 +1,21 @@
+[theme]
+base="light"
+font="sans-serif"
+# primaryColor = "#4A6FA5"   # Neutral blue
+# primaryColor = "#8B2F2F"   # Dark muted red
+# primaryColor = "#36454F"   # Dark bluish gray
+# primaryColor = "#7D7D7D"   # Pure stone gray
+# primaryColor = "#222222"   # Charcoal black
+# primaryColor = "#2F4F2F"   # Dark green
+primaryColor = "#4B4E6D"   # Slate blue-gray
+# primaryColor = "#5E4B3C"   # Warm earthy brown
+# primaryColor = "#3B5D50"   # Deep teal-green
+# primaryColor = "#505050"   # Soft neutral dark gray
+# primaryColor = "#6C7A89"   # Soft steel blue
+# primaryColor = "#7D5A50"   # Muted terra cotta
+# primaryColor = "#8FBC8F"   # Gentle sage green
+# primaryColor = "#A78F8F"   # Dusty rose
+# primaryColor = "#8FA1B3"   # Muted periwinkle
+# primaryColor = "#7AA6C2"   # Calm sky blue
+# primaryColor = "#6E7F80"   # Desaturated teal
+# primaryColor = "#9A8F97"   # Soft lavender gray
